@@ -140,9 +140,3 @@ The dataset is available at:
 MIT License  
 
 ---
-
-## **📬 Contact**  
-For questions or feedback, please open an **issue** in the repository or contact:  
-📧 *your-email@example.com*  
-
-🚀 **Happy Analyzing!** 🚀

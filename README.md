@@ -1,5 +1,7 @@
 # **Customer Segmentation Analysis Project**  
 
+![Customer Segmentation]([https://github.com/kthalkari/Customer-Segmentation-Analysis/blob/main/Customer-Segmentation.png])
+
 ## **📌 Overview**  
 This project analyzes customer purchasing behavior and demographics to segment customers into meaningful groups. By leveraging machine learning models, businesses can better understand customer preferences, optimize marketing strategies, and improve product recommendations.  
 

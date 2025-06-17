@@ -107,7 +107,7 @@ The dataset is available at:
 - **Optimal C Value**: `10.0`  
 - **Accuracy**: ~85%  
 - **Confusion Matrix**:  
-  ![Confusion Matrix](https://via.placeholder.com/300) *(Example image placeholder)*  
+
 
 ### **🔹 Key Insights**  
 - **High-Value Customers**: Identified by `Total After Discount` and `Region`.  

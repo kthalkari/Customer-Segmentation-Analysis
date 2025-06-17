@@ -124,10 +124,6 @@ The dataset is available at:
    ```bash
    jupyter SourceCode.ipynb
    ```
-  
-3. **Review Outputs**:  
-   - Visualizations (saved as `.png` files).  
-   - Model evaluation metrics in the console.  
 
 ### **Customizing the Analysis**  
 - Modify `test_size` in `train_test_split()` for different train-test ratios.  

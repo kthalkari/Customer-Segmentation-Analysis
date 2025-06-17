@@ -119,10 +119,12 @@ The dataset is available at:
 ## **🛠️ How to Use**  
 ### **Running the Analysis**  
 1. **Download the dataset** from the provided link.  
-2. **Run the Jupyter Notebook / Python Script**:  
+2. **Run the Jupyter Notebook / Python Script**:
+     
    ```bash
    jupyter SourceCode.ipynb
    ```
+  
 3. **Review Outputs**:  
    - Visualizations (saved as `.png` files).  
    - Model evaluation metrics in the console.  

@@ -121,11 +121,7 @@ The dataset is available at:
 1. **Download the dataset** from the provided link.  
 2. **Run the Jupyter Notebook / Python Script**:  
    ```bash
-   jupyter notebook Customer_Segmentation_Analysis.ipynb
-   ```
-   or  
-   ```bash
-   python customer_segmentation.py
+   jupyter SourceCode.ipynb
    ```
 3. **Review Outputs**:  
    - Visualizations (saved as `.png` files).  
